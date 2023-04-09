@@ -1,6 +1,6 @@
 # 42_piscine
 
-Esse é um breve relato da minha experiência na piscine da 42 Porto, entre os dias 06 de março à 31 de março de 2023.
+Esse é um breve relato da minha experiência na piscine da 42 Porto, entre os dias 06 e 31 de março de 2023.
 
 ## 42 Porto
 Em contrução.
